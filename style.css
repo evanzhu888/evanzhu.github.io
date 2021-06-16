@@ -1,15 +1,31 @@
-body {
-  background-color: #a3d5d3;
-}
-.coolstuff {
-  color:#E9ffcc;
-}
-h1{
-  text-align:center;
-  color:rgb(255,255,15);
-}
-#yessir{
-  float:right;
-}
+  .container {
+    padding: 0px;
+    font-size: .8rem;
+  }
 
+  .follow {
+    margin: 0;
+    margin-right: 10px;
+    font-size: .7rem;
+  }
+
+  .prefooter {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .header {
+    font-size: .8rem;
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+
+  .header .header__navbar p {
+    margin-left: 8px;
+  }
+
+  .header__logo a {
+    font-size: 1rem;
+  }
+}
 
